@@ -15,5 +15,4 @@ print (d)
 
 
 
-print ('Hello World')
 
