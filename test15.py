@@ -1,7 +1,3 @@
-t = 1,[2,3]
-print (t)
-t[1].append(4)
-print (t)
-t[1].pop(0)
-print (t)
-
+A = [1,2,3,4]
+B = [2,4,7,8]
+print(set(A) - set(B))
