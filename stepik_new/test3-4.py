@@ -12,6 +12,7 @@ abc 3
 
 '''
 a = 'XUbTY TY XTpYdY cU XpUUXZc Zp ZdYUZ bd bppdd cbc bppdd ZY YYZdZ XXUpd XUbTY YbZT T ZpacpTU ZdYUZ ZdYUZ ZpacpTU UTpXZYY pTUbZd TY TcpcTc pbTZbTc pUTcZTbb c caTZX cU UbpXdZY cbc XXUpd Z daYad acYa ZpacpTU XadZpUY UTpXZYY acXapYp Zd YUZ XXUpd ZY TY bTbUZYYpc cXbd bdcda UYTZTTc XUabYdXZZ ZppadZd bd pTccT cXbd XYUYaaTpT Y dUa    X UYTZTTc Yb bXcpUcbdd Ypp da da bUd TpbYbX cbUpY aUYaXdb X da XYdccbXa bUd     XZcXUU apdTTZYT d YbTY dc pTZbbb ccZd dYap YTYa pcccZp dYap apTadUc bYXpccU dYap bYXpccU U dXZbT dTadd UYaXTZ     apTadUc daXbYd daXbYd YZZ bYXpccU aTdbdXTY pcccZp Ubdd YbcZ aTdbdXTY YX dTb    XT  cTacc cTacc pUTTdUUd UpZ ZbdYXXb pdXUYdYcY ppadcUdc ZbdYXXb ZbdYXXb ppadcUdc     ZbdYXXb ZbdYXXb aTYUpTXZa p d dbbd pdXUYdYcY abbpZZ Taap Taap YbXaZ d XaZ X    bbbbpp cp aTYUpTXZa YY ZbdYXXb cTacc dZY pc cUTddYXp cUTddYXp dc T pbbcX pbbcX pbbcX dccbpU YZbZaXaYd YZbZaXaYd pbbcX bXdpUY d pbbcX bXdpUY Ucb     dZapda aTc bXdpUY Ucb pbbcX a bXdpUY TZcpbYbpT pUYXaZbd cYpUYZX YabY pbbcX     Ucb ZcXTTXY ZTU aZbYa bXdpUY a UZbbbUTcU TZcpbYbpT pcTUp Up a dccbpU TYU XXZ    UYZcT Ucb TaXd UpTXUTb Ucb pccdcXXcX XcZ dXY ad dXY ad pUYUbab pbcXbU U aYXUXYpYX cpX ad bpdXYY dUdYb dUdYb bpdXYY dUdYb dUdYb bTaT bbaUc X cZYZcpXaY acc YcUZXY Ub Y     YaUd UcX bUYUdbTp b dUdYb XXYXZp Xb ZcTddccU Zaaaac bbUpYUUX Ypbcp ZcTddccU     cpb cZZYYXXdX TZZ ab X UbdYcp cUcTaY Zaaaac TpX UXXbU bpdXYY XT YY bcp YTTU    UUTb ZZ'
+
 a = sorted(a.upper().split())
 
 list_a_unrep = set()
