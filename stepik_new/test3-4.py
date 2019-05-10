@@ -1,5 +1,5 @@
 #find max count of wordr in line
-with open ('/home/alexandr/Downloads/dataset_3363_3_(1).txt') as inf:
+with open ('/home/alexandr/Downloads/dataset_3363_3.txt') as inf:
     line = ''
     rows = []
     for line in inf:
