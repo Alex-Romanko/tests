@@ -27,6 +27,9 @@ m = [0, 0]
 for i in d:
     if i[0] > m[0]:
         m = i
+    elif i[0] == m[0]:
+        if i[1] > m[1]:
+            m = i
 
 qwer = str(m[1]) + ' ' + str(m[0])
 print (qwer)
