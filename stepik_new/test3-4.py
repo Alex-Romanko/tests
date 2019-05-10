@@ -38,3 +38,6 @@ with open ('/home/alexandr/Downloads/answer1.txt', 'w') as ouf:
     ouf.write (qwer)
 
 
+
+
+
