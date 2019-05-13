@@ -1,4 +1,7 @@
 #find max count of wordr in line
+from time import time
+start = time
+
 with open ('/home/alexandr/Downloads/dataset_3363_3.txt') as inf:
     line = ''
     rows = []
@@ -36,7 +39,7 @@ print (qwer)
 
 with open ('/home/alexandr/Downloads/answer1.txt', 'w') as ouf:
     ouf.write (qwer)
-
+print (start-time)
 
 
 
